@@ -1,6 +1,6 @@
 <?php
 // I18N support information here
-$language = "en_US";
+$language = "en_CA.utf8";
 putenv("LANG=" . $language); 
 setlocale(LC_ALL, $language);
 
